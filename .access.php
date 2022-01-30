@@ -1,0 +1,15 @@
+<?
+$PERM["news"]["2"]="R";
+$PERM["news"]["6"]="R";
+$PERM["news"]["3"]="R";
+$PERM["news"]["4"]="R";
+$PERM["news"]["7"]="R";
+$PERM["news"]["5"]="R";
+$PERM["news"]["8"]="W";
+$PERM["news"]["*"]="W";
+$PERM["personal"]["8"]="W";
+$PERM["catalog"]["8"]="W";
+$PERM["about"]["8"]="W";
+$PERM["index.php"]["8"]="W";
+$PERM["/"]["*"]="R";
+?>

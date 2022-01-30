@@ -1,0 +1,124 @@
+2022-Jan-30 10:44:55 ĞĞ°Ğ»Ğ¸Ñ‡Ğ¸Ğµ Ğ½ĞµĞ¾Ğ±Ñ…Ğ¾Ğ´Ğ¸Ğ¼Ñ‹Ñ… Ğ¼Ğ¾Ğ´ÑƒĞ»ĞµĞ¹ php (check_php_modules): Ok
+Ğ’ÑĞµ Ğ½ĞµĞ¾Ğ±Ñ…Ğ¾Ğ´Ğ¸Ğ¼Ñ‹Ğµ Ğ¼Ğ¾Ğ´ÑƒĞ»Ğ¸ ÑƒÑÑ‚Ğ°Ğ½Ğ¾Ğ²Ğ»ĞµĞ½Ñ‹
+2022-Jan-30 10:44:55 ĞĞ±ÑĞ·Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ Ğ¿Ğ°Ñ€Ğ°Ğ¼ĞµÑ‚Ñ€Ñ‹ PHP (check_php_settings): Ok
+ĞĞ°ÑÑ‚Ñ€Ğ¾Ğ¹ĞºĞ¸ Ğ¿Ñ€Ğ°Ğ²Ğ¸Ğ»ÑŒĞ½Ñ‹Ğµ
+2022-Jan-30 10:44:56 ĞœĞ¾Ğ´ÑƒĞ»Ğ¸ Ğ²ĞµĞ±-ÑĞµÑ€Ğ²ĞµÑ€Ğ° (check_security): Ok
+ĞšĞ¾Ğ½Ñ„Ğ»Ğ¸ĞºÑ‚Ğ¾Ğ² Ğ½Ğµ Ğ²Ñ‹ÑĞ²Ğ»ĞµĞ½Ğ¾
+2022-Jan-30 10:44:56 Ğ—Ğ½Ğ°Ñ‡ĞµĞ½Ğ¸Ñ Ğ¿ĞµÑ€ĞµĞ¼ĞµĞ½Ğ½Ñ‹Ñ… ÑĞµÑ€Ğ²ĞµÑ€Ğ° (check_server_vars): Ok
+ĞšĞ¾Ñ€Ñ€ĞµĞºÑ‚Ğ½Ñ‹Ğµ
+2022-Jan-30 10:44:56 Ğ¡Ğ¾Ñ…Ñ€Ğ°Ğ½ĞµĞ½Ğ¸Ğµ ÑĞµÑÑĞ¸Ğ¸ (check_session): Ok
+50% done
+2022-Jan-30 10:44:56 Ğ¡Ğ¾Ñ…Ñ€Ğ°Ğ½ĞµĞ½Ğ¸Ğµ ÑĞµÑÑĞ¸Ğ¸ (check_session): Ok
+Ğ£ÑĞ¿ĞµÑˆĞ½Ğ¾
+2022-Jan-30 10:44:56 ĞŸĞ°Ñ€Ğ°Ğ¼ĞµÑ‚Ñ€Ñ‹ Ğ½Ğ°ÑÑ‚Ñ€Ğ¾Ğ¹ĞºĞ¸ UTF (mbstring Ğ¸ ĞºĞ¾Ğ½ÑÑ‚Ğ°Ğ½Ñ‚Ğ° BX_UTF) (check_mbstring): Fail
+ĞÑˆĞ¸Ğ±ĞºĞ°! Ğ˜ÑĞ¿Ğ¾Ğ»ÑŒĞ·ÑƒĞµÑ‚ÑÑ ÑƒÑÑ‚Ğ°Ñ€ĞµĞ²ÑˆĞ°Ñ Ğ½Ğ°ÑÑ‚Ñ€Ğ¾Ğ¹ĞºĞ° mbstring.func_overload, ÑƒĞ´Ğ°Ğ»Ğ¸Ñ‚Ğµ ĞµĞµ.
+2022-Jan-30 10:44:57 Ğ¡Ğ»ÑƒĞ¶ĞµĞ±Ğ½Ñ‹Ğµ ÑĞºÑ€Ğ¸Ğ¿Ñ‚Ñ‹ Ğ² ĞºĞ¾Ñ€Ğ½Ğµ ÑĞ°Ğ¹Ñ‚Ğ° (check_install_scripts): Ok
+ĞÑ‚ÑÑƒÑ‚ÑÑ‚Ğ²ÑƒÑÑ‚
+2022-Jan-30 10:44:57 Ğ Ğ°Ğ±Ğ¾Ñ‚Ğ° Ñ ÑĞ¾ĞºĞµÑ‚Ğ°Ğ¼Ğ¸ (check_socket): Ok
+Connection to bit.local:80	Success
+
+Ğ£ÑĞ¿ĞµÑˆĞ½Ğ¾
+2022-Jan-30 10:44:57 Ğ’Ñ‹Ğ¿Ğ¾Ğ»Ğ½ĞµĞ½Ğ¸Ğµ Ğ°Ğ³ĞµĞ½Ñ‚Ğ¾Ğ² Ğ½Ğ° cron (check_bx_crontab): Warning
+Ğ—Ğ°Ğ¼ĞµÑ‡Ğ°Ğ½Ğ¸Ğµ. ĞĞ³ĞµĞ½Ñ‚Ñ‹ Ğ²Ñ‹Ğ¿Ğ¾Ğ»Ğ½ÑÑÑ‚ÑÑ Ğ½Ğ° Ñ…Ğ¸Ñ‚Ğ°Ñ…, Ñ€ĞµĞºĞ¾Ğ¼ĞµĞ½Ğ´ÑƒĞµÑ‚ÑÑ Ğ¿ĞµÑ€ĞµĞ²ĞµÑÑ‚Ğ¸ Ğ²Ñ‹Ğ¿Ğ¾Ğ»Ğ½ĞµĞ½Ğ¸Ğµ Ğ°Ğ³ĞµĞ½Ñ‚Ğ¾Ğ² Ğ½Ğ° cron
+2022-Jan-30 10:44:57 ĞŸĞ°Ñ€Ğ°Ğ¼ĞµÑ‚Ñ€Ñ‹ Ğ¿Ğ¾Ğ´ĞºĞ»ÑÑ‡ĞµĞ½Ğ¸Ñ Ğº Ğ±Ğ°Ğ·Ğµ Ğ´Ğ°Ğ½Ğ½Ñ‹Ñ… (check_dbconn_settings): Ok
+Ğ£ÑĞ¿ĞµÑˆĞ½Ğ¾
+2022-Jan-30 10:44:58 Ğ›Ğ¸ÑˆĞ½Ğ¸Ğ¹ Ğ²Ñ‹Ğ²Ğ¾Ğ´ Ğ² Ñ„Ğ°Ğ¹Ğ»Ğ°Ñ… ĞºĞ¾Ğ½Ñ„Ğ¸Ğ³ÑƒÑ€Ğ°Ñ†Ğ¸Ğ¸ (check_dbconn): Ok
+Connection to bit.local:80	Success
+
+Ğ£ÑĞ¿ĞµÑˆĞ½Ğ¾
+2022-Jan-30 10:44:58 Ğ¡Ğ¾Ñ…Ñ€Ğ°Ğ½ĞµĞ½Ğ¸Ğµ ÑĞµÑÑĞ¸Ğ¸ Ğ±ĞµĞ· UserAgent (check_session_ua): Ok
+50% done
+Connection to bit.local:80	Success
+
+2022-Jan-30 10:44:58 Ğ¡Ğ¾Ñ…Ñ€Ğ°Ğ½ĞµĞ½Ğ¸Ğµ ÑĞµÑÑĞ¸Ğ¸ Ğ±ĞµĞ· UserAgent (check_session_ua): Ok
+Connection to bit.local:80	Success
+
+Ğ£ÑĞ¿ĞµÑˆĞ½Ğ¾
+2022-Jan-30 10:44:59 ĞĞ°ÑÑ‚Ñ€Ğ¾Ğ¹ĞºĞ¸ ÑĞ°Ğ¹Ñ‚Ğ¾Ğ² (check_sites): Ok
+ĞŸÑ€Ğ°Ğ²Ğ¸Ğ»ÑŒĞ½Ñ‹Ğµ
+2022-Jan-30 10:44:59 ĞŸĞµÑ€ĞµĞ´Ğ°Ñ‡Ğ° Ğ¾Ğ±ÑŠĞµĞºÑ‚Ğ¾Ğ² Ğ¿Ğ¾ ÑÑÑ‹Ğ»ĞºĞµ (check_clone): Ok
+Ğ£ÑĞ¿ĞµÑˆĞ½Ğ¾
+2022-Jan-30 10:44:59 Ğ Ğ°Ğ·Ğ¼ĞµÑ€ ÑÑ‚ĞµĞºĞ° Ğ¸ pcre.recursion_limit (check_pcre_recursion): Ok
+Connection to bit.local:80	Success
+
+Ğ£ÑĞ¿ĞµÑˆĞ½Ğ¾
+2022-Jan-30 10:44:59 Ğ—Ğ°Ğ³Ñ€ÑƒĞ·ĞºĞ° Ñ„Ğ°Ğ¹Ğ»Ğ° (check_upload): Fail
+Connection to bit.local:80	Success
+== Request ==
+POST /bitrix/admin/site_checker.php?test_type=upload_test&unique_id=02cfb9a7f63f8b8337ccde45862f493b&big=0&raw=0 HTTP/1.1
+Host: bit.local
+Content-Type: multipart/form-data; boundary=--------82d63e8ad0f93bf1cf65937f3a9698e9
+Content-Length: 368
+
+----------82d63e8ad0f93bf1cf65937f3a9698e9
+Content-Disposition: form-data; name="test_file"; filename="site_checker.bin
+Content-Type: image/gif
+
+()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîï
+----------82d63e8ad0f93bf1cf65937f3a9698e9
+
+== Response ==
+HTTP/1.1 200 OK
+Date: Sun, 30 Jan 2022 07:44:59 GMT
+Server: Apache
+Content-Length: 298
+Content-Type: text/html; charset=UTF-8
+
+== Body ==
+move_uploaded_file(,C:/OpenServer/OSPanel/domains/bit.local/bitrix/tmp/site_checker.bin)=false
+$_FILES=
+Array
+(
+    [test_file] => Array
+        (
+            [name] => site_checker.bin
+            [type] => 
+            [tmp_name] => 
+            [error] => 3
+            [size] => 0
+        )
+
+)
+
+==========
+
+ĞÑˆĞ¸Ğ±ĞºĞ°! ĞĞµ Ñ€Ğ°Ğ±Ğ¾Ñ‚Ğ°ĞµÑ‚
+2022-Jan-30 10:44:59 Ğ—Ğ°Ğ³Ñ€ÑƒĞ·ĞºĞ° Ñ„Ğ°Ğ¹Ğ»Ğ° Ğ±Ğ¾Ğ»ÑŒÑˆĞµ 4ĞœĞ± (check_upload_big): Fail
+Connection to bit.local:80	Success
+== Request ==
+POST /bitrix/admin/site_checker.php?test_type=upload_test&unique_id=02cfb9a7f63f8b8337ccde45862f493b&big=1&raw=0 HTTP/1.1
+Host: bit.local
+Content-Type: multipart/form-data; boundary=--------82d63e8ad0f93bf1cf65937f3a9698e9
+Content-Length: 3633195
+
+----------82d63e8ad0f93bf1cf65937f3a9698e9
+Content-Disposition: form-data; name="test_file"; filename="site_checker.bin
+Content-Type: image/gif
+
+()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîï()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîï()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîï()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuv ... (3633448 bytes)
+== Response ==
+HTTP/1.1 200 OK
+Date: Sun, 30 Jan 2022 07:44:59 GMT
+Server: Apache
+Content-Length: 298
+Content-Type: text/html; charset=UTF-8
+
+== Body ==
+move_uploaded_file(,C:/OpenServer/OSPanel/domains/bit.local/bitrix/tmp/site_checker.bin)=false
+$_FILES=
+Array
+(
+    [test_file] => Array
+        (
+            [name] => site_checker.bin
+            [type] => 
+            [tmp_name] => 
+            [error] => 3
+            [size] => 0
+        )
+
+)
+
+==========
+
+ĞÑˆĞ¸Ğ±ĞºĞ°! ĞĞµ Ñ€Ğ°Ğ±Ğ¾Ñ‚Ğ°ĞµÑ‚

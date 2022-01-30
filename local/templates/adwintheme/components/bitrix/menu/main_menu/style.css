@@ -1,0 +1,45 @@
+/* top menu*/
+
+ul.top-menu
+{   flex-wrap: nowrap;
+	list-style:none;
+	margin:0; 
+	padding:0;	
+	margin-bottom:8px;
+	position: relative; /*IE bug*/
+}
+
+ul.top-menu li
+{   margin-right: 50px;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 120%;	
+}
+
+ul.top-menu li a{   
+	cursor: pointer;
+	text-decoration: none;
+	color: #FFFFFF;	
+}
+
+ul.top-menu li a:visited
+{
+	color:rgb(216, 202, 121)5;
+}
+
+ul.top-menu li a:hover
+{
+	color:#F9CA25;
+}
+
+
+ul.top-menu li a.selected:link,
+ul.top-menu li a.selected:visited,
+ul.top-menu li a.selected:active,
+ul.top-menu li a.selected:hover
+{
+	color:#FC8D3D;
+}
+
+
+
